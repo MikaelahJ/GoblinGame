@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GitHub\\GoblinGame\\GoblinGame\\Source\\GoblinGame\\GoblinGame.Build.cs",
+		"D:\\GitHub\\GoblinGame\\GoblinGame\\Source\\GoblinGame.Target.cs",
+		"D:\\GitHub\\GoblinGame\\GoblinGame\\Source\\GoblinGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

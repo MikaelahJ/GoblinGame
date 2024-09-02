@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GoblinGame",
+			"Path": "..\\Source\\GoblinGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GoblinGameEditor",
+			"Path": "..\\Source\\GoblinGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
