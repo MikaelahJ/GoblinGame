@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\goblingame\\goblingame\\intermediate\\build\\win64\\unrealeditor\\inc\\goblingame\\uht\\goblingamegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\goblingame\\goblingame\\intermediate\\build\\win64\\x64\\goblingameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\goblingame\\goblingame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\goblingame\\definitions.goblingame.h",
+            "d:\\github\\goblingame\\goblingame\\source\\goblingame\\goblingamegamemode.h",
+            "d:\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\github\\goblingame\\goblingame\\intermediate\\build\\win64\\unrealeditor\\inc\\goblingame\\uht\\goblingamegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

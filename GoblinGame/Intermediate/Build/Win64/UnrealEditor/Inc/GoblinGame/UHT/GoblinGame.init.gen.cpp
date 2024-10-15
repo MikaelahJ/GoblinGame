@@ -21,13 +21,13 @@ void EmptyLinkFunctionForGeneratedCodeGoblinGame_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x0EDCD65A,
-				0x293A9C5E,
+				0xEA6A279F,
+				0xDA96DA11,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_GoblinGame.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_GoblinGame.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_GoblinGame(Z_Construct_UPackage__Script_GoblinGame, TEXT("/Script/GoblinGame"), Z_Registration_Info_UPackage__Script_GoblinGame, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x0EDCD65A, 0x293A9C5E));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_GoblinGame(Z_Construct_UPackage__Script_GoblinGame, TEXT("/Script/GoblinGame"), Z_Registration_Info_UPackage__Script_GoblinGame, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xEA6A279F, 0xDA96DA11));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

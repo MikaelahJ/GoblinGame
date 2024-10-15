@@ -11,6 +11,7 @@
     <None Include="..\..\Source\GoblinGameEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -76,6 +77,24 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\GoblinGame\TP_WeaponComponent.h">
       <Filter>Source\GoblinGame</Filter>
+    </ClInclude>
+    <Filter Include="Source\GoblinGame\Private">
+      <UniqueIdentifier>{9014BF77-3354-3FE5-8659-968D16BF0DB5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GoblinGame\Private\NPC">
+      <UniqueIdentifier>{5EC52FC0-D38B-37F1-9EC9-320BE7FF7E25}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GoblinGame\Private\NPC\NPCBase.cpp">
+      <Filter>Source\GoblinGame\Private\NPC</Filter>
+    </ClCompile>
+    <Filter Include="Source\GoblinGame\Public">
+      <UniqueIdentifier>{CDDB2E36-C415-34E7-9801-507356130A92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GoblinGame\Public\NPC">
+      <UniqueIdentifier>{CF90CB5C-AF8A-39BD-B008-6F137FF5DCB3}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GoblinGame\Public\NPC\NPCBase.h">
+      <Filter>Source\GoblinGame\Public\NPC</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

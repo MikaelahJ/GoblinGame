@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoblinGameModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2340dad229fa790d1807023e8dbc9f974db2d734")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+873de15b185a98cdc7ce1b1b929cf52cc6bbcac0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoblinGameModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoblinGameModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
